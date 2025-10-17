@@ -7,5 +7,5 @@ theme: minima
 #author: thefastman
 minima:
   skin: auto           # light/dark auto
-  #social_links:
-  #  github: thefastman
+  social_links:
+    github: thefastman
