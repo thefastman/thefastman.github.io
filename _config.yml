@@ -4,8 +4,8 @@ url: https://thefastman.github.io
 theme: minima
 
 # Optional, nice-to-haves:
-author: thefastman
+#author: thefastman
 minima:
   skin: auto           # light/dark auto
-  social_links:
-    github: thefastman
+  #social_links:
+  #  github: thefastman
