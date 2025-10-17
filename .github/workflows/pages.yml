@@ -34,6 +34,7 @@ jobs:
           else
             # build with vanilla jekyll if no Gemfile provided
             gem install jekyll:4.3.3
+            gem install minima -v "~> 2.5"
           fi
 
       - name: Build site
